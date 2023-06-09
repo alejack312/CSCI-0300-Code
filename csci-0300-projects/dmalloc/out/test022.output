@@ -1,0 +1,2 @@
+Bad pointer 0x573f48
+MEMORY BUG: test022.cc:10: invalid free of pointer 0x573f48, not allocated

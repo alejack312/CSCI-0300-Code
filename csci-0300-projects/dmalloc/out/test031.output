@@ -1,0 +1,1 @@
+MEMORY BUG: test031.cc:9: invalid free of pointer 0x17e2f48, not allocated

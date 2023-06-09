@@ -1,0 +1,2 @@
+Will free 0x8a6ec8
+MEMORY BUG: test020.cc:11: invalid free of pointer 0x8a6ec8, double free
